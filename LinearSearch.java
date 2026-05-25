@@ -24,3 +24,6 @@ public class LinearSearch {
         }
     }
 }
+
+// Best Case : O(1) - target is the first element
+// Worst Case : O(n) - target is last or not present (checks all elements)
